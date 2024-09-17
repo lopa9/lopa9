@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lopamudra.p188@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns:She/Her
+- ⚡ Fun fact:Keeping Things real 
 
 <!---
 lopa9/lopa9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
