@@ -12,6 +12,7 @@
 - [Basic Word and Letter Calculation Operation](https://github.com/lopa9/ReactProject/tree/main/word-letter-counter)
 - [Basic Password Validator ](https://github.com/lopa9/ReactProject/tree/main/password-validator)
 - [Basic Lyrics Finder](https://github.com/lopa9/ReactProject/tree/main/lyrics-finder)
+- [Basic axios app ](https://github.com/lopa9/ReactProject/tree/main/axios-lab)
 
   
 <!---
