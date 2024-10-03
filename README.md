@@ -11,6 +11,7 @@
 
 ### Express projects
 - [Basic Express App with CRUD Operations](https://github.com/lopa9/expressApp1)
+- [Express App with mongoose](https://github.com/lopa9/expressApp2)
 
 ### React projects
 - [Basic Word and Letter Calculation Operation](https://github.com/lopa9/ReactProject/tree/main/word-letter-counter)
