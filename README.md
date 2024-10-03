@@ -7,7 +7,7 @@
 - ⚡ Fun fact:Keeping Things real 
 
 
-### Here are my projects
+### Here are my Express projects
 - [Basic Express App with CRUD Operations](https://github.com/lopa9/expressApp1)
 - [Basic Word and Letter Calculation Operation](https://github.com/lopa9/ReactProject/tree/main/word-letter-counter)
 - [Basic Password Validator ](https://github.com/lopa9/ReactProject/tree/main/password-validator)
