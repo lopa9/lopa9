@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lopamudra.p188@gmail.com
+- 🔗[My LinkedIn profile](linkedin.com/in/lopa9/)
 - 😄 Pronouns:She/Her
 - ⚡ Fun fact:Keeping Things real 
 
