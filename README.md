@@ -1,11 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Lopamudra Pradhan</h1>
--🎓 Currently pursuing: **MCA**
--👀 I’m interested in web development
-- 🔭 I'm working on projects involving **web development**
+
+- 🎓 Currently pursuing: **MCA**
+- 👀 I’m interested in **Web Development**
+- 🔭 I'm working on projects involving **Web Technologies**
 - 📫 Reach me at: **lopamudra.p188@gmail.com**
-- 🔗[My LinkedIn profile](linkedin.com/in/lopa9/)
-- 💞️ I’m looking to collaborate on 
-  
+- 🔗 [My LinkedIn profile](https://linkedin.com/in/lopa9/)
+- 💞️ I’m looking to collaborate on **web-based or beginner-friendly open-source projects**
+
 
 
 ## Here are my Projects
