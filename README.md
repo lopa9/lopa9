@@ -6,7 +6,7 @@
 - 📫 Reach me at: **lopamudra.p188@gmail.com**
 - <a href="https://linkedin.com/in/lopa9" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24">
-</a>[My LinkedIn profile](https://linkedin.com/in/lopa9/)
+[My LinkedIn profile](https://linkedin.com/in/lopa9/)</a>
 - 💞️ I’m looking to collaborate on **web-based or beginner-friendly open-source projects**
 
 
