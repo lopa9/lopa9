@@ -4,7 +4,7 @@
 - 👀 I’m interested in **Web Development**
 - 🔭 I'm working on projects involving **Web Technologies**
 - 📫 Reach me at: **lopamudra.p188@gmail.com**
-- <a href="https://linkedin.com/in/yourusername" target="_blank">
+- <a href="https://linkedin.com/in/lopa9" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24">
 </a>
 
