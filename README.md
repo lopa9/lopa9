@@ -19,41 +19,15 @@
 - [Basic Lyrics Finder](https://github.com/lopa9/ReactProject/tree/main/lyrics-finder)
 - [Basic axios app ](https://github.com/lopa9/ReactProject/tree/main/axios-lab)
 
- <!-- GitHub Stats -->
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lopa9&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=lopa9&theme=radical" alt="GitHub Streak" />
-</p>
 `
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lopa9&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lopa9&theme=radical&no-frame=true&row=2&column=3" alt="Trophies" />
-</p>
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lopa9&theme=react-dark" alt="Contribution Graph" />
-</p>
 
 ## 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lopa9&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 👀 Visitors
+## 📈 Contribution Graph
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lopa9&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lopa9&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lopa9&theme=react-dark" alt="Contribution Graph" />
 </p>
 
