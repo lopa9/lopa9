@@ -30,26 +30,26 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lopa9&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=2&column=3" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lopa9&theme=radical&no-frame=true&row=2&column=3" alt="Trophies" />
 </p>
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lopa9&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=lopa9&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 👀 Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lopa9 &style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
