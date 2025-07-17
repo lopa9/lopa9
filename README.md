@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Lopamudra Pradhan</h1>
 -🎓 Currently pursuing: **MCA**
-- 👀 I’m interested in web development
+-👀 I’m interested in web development
 - 🔭 I'm working on projects involving **web development**
 - 📫 Reach me at: **lopamudra.p188@gmail.com**
 - 🔗[My LinkedIn profile](linkedin.com/in/lopa9/)
