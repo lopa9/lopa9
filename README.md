@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Lopamudra Pradhan</h1>
-- 🎓 Currently pursuing: **MCA**
+-🎓 Currently pursuing: **MCA**
 - 👀 I’m interested in web development
 - 🔭 I'm working on projects involving **web development**
 - 📫 Reach me at: **lopamudra.p188@gmail.com**
