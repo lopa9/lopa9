@@ -1,9 +1,10 @@
-- 👋## Hi, I’m @lopa9
-- 👀 I’m interested in web development...
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me lopamudra.p188@gmail.com
+<h1 align="center">Hi there 👋, I'm Lopamudra Pradhan</h1>
+- 🎓 Currently pursuing: **MCA**
+- 👀 I’m interested in web development
+- 🔭 I'm working on projects involving **web development**
+- 📫 Reach me at: **lopamudra.p188@gmail.com**
 - 🔗[My LinkedIn profile](linkedin.com/in/lopa9/)
+- 💞️ I’m looking to collaborate on 
   
 
 
@@ -19,4 +20,13 @@
 - [Basic Password Validator ](https://github.com/lopa9/ReactProject/tree/main/password-validator)
 - [Basic Lyrics Finder](https://github.com/lopa9/ReactProject/tree/main/lyrics-finder)
 - [Basic axios app ](https://github.com/lopa9/ReactProject/tree/main/axios-lab)
- 
+
+
+ <!-- GitHub Stats -->
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lopa9&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=lopa9&theme=radical" alt="GitHub Streak" />
+</p>
+`
